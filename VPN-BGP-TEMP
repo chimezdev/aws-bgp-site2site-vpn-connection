@@ -1,5 +1,5 @@
 
-To save time later in the DEMO we should populate this before configuring the ONPREM environment.  
+To save time later in the DEMO, you should populate this before configuring the ONPREM environment.  
 There are two VPN connections ... one between AWS and ONPREM ROUTER1 and one between AWS and ONPREM ROUTER2  
 For each of those there are two tunnels ... AWS Endpoint A -> ONPREMROUTER  
 and AWS endpointB -> ONPREMROUTER  
